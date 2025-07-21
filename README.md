@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! <br/><a href="https://github.com/AustinCal">Graduate Spring 2025</a>, <a href="https://www.linkedin.com/in/austin-calloway-2b40581bb">Intern</a>
+<h1>Hi, I'm Brandie! <br/><a href="https://github.com/brandiehouston1">December 2026 Grad</a>, <a href="https://www.linkedin.com/in/brandiehouston/">Intern</a>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
@@ -22,13 +22,3 @@
 - <b>Other Projects</b>
   - [LA Dodgers SQL Database](https://github.com/AustinCal/LA-Dodgers-SQL-Database)
   - [Hospital Network - Two Sites](https://github.com/AustinCal/Hospital-Network-2-Sites/blob/main/Screenshot%202025-02-22%20103432.png)
-
-<h2>👨‍💻 Misc Projects:</h2>
-
-- <b>Blog Post by Austin Calloway</b>
-  - [DeepDive into VPNs](https://github.com/AustinCal/Deep-Dive-into-VPNs)
-  - [Grok 3 Elon Musk AI Model (In progress)](https://github.com/AustinCal/Grok-3-Elon-Musk-AI-Model)
-
-
-<h2>🤳 Certifications</h2>
-<b>AWS Cloud Practicioner (Upcoming)</b>
